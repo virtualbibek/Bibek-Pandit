@@ -2,6 +2,14 @@ Albert  Demo
 <br>
 Auther- Bibek Pandit
 
+<h1> Welcome to My Profile Page ! </h1>
+
+<img src="./Assets/Image/pandit.png" alt="pandit.png" width="200" height="250" />
+<hr />
+<a href="./public/contact.html">Contact Me</a>
+<hr />
+<a href="./public/about.html">About Me</a>
+
 <!--
 **virtualbibek/virtualbibek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
